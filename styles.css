@@ -1,0 +1,38 @@
+h1{
+	color:blue;
+}
+h1{
+	color:darkblue;
+}
+
+
+body{
+	background-color: skyblue;
+	font-family: sans-serif;
+}
+
+ul{
+	list-style-type: none;
+	background-color: aliceblue;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	position: relative;
+	top: 0;
+}
+
+li{
+	float: left;
+}
+
+li a{
+	padding: 20px;
+	text-align: center;
+	float: left;
+}
+
+
+li a:hover{
+	color: steelblue;
+	background-color: white;
+}
